@@ -8,4 +8,4 @@ Album Voting script used by the Music Appreciation Club at UT to determine the A
  - Repeat the process until there is one album remaining
 
 
-This system has replaced the old point based system (see the bottom of Cods.gs)
+This system has replaced the old point based system (see the bottom of Code.gs)
