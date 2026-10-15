@@ -1,7 +1,7 @@
 # Instant-Runoff-Voting
 Album Voting script used by the Music Appreciation Club at UT to determine the Album of the Week. 
 
-The process
+## The process
  - Count up all 1st place votes for each album 
  - Eliminate the album with the fewest votes
  - For the eliminated album, all 1 votes are transferred to that voter's next ranked album (2 or 3)
